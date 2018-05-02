@@ -1,2 +1,11 @@
-build/.vs/
+library/build/Debug/
+library/build/Release/
 library/build/ImplicitCrowds.vcxproj.user
+build/.vs/
+build/bin/ImplicitCrowds.exe
+build/bin/ImplicitCrowds.exp
+build/bin/ImplicitCrowds.ilk
+build/bin/ImplicitCrowds.lib
+build/bin/ImplicitCrowds.pdb
+build/bin/ImplicitCrowds.iobj
+build/bin/ImplicitCrowds.ipdb
